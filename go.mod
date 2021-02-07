@@ -1,4 +1,4 @@
-module github.com/zqijzqj/mtSecKill
+module github.com/dclemon/mtSecKill
 
 go 1.14
 
