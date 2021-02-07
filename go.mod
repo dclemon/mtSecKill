@@ -11,3 +11,4 @@ require (
 	github.com/tidwall/gjson v1.6.7
 	golang.org/x/sys v0.0.0-20201223074533-0d417f636930 // indirect
 )
+replace github.com/coreos/go-systemd => github.com/coreos/go-systemd/v22 v22.1.0
